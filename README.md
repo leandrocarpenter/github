@@ -41,7 +41,7 @@ function soma(a, b) {
 
 ## Lista de Tarefas a fazer:
 
-- [ X ] Area de Membros
-- [ ] Integracao com outros pagamentos
-- [ ] Sistema de bonus
-- [ x ] Css do Rodape atualizado
+- [X] Area de Membros
+- [] Integracao com outros pagamentos
+- [] Sistema de bonus
+- [x] Css do Rodape atualizado

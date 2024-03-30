@@ -25,3 +25,23 @@ _Melhoria 1_, __melhoria 2__
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra.
 4. Atualização de lista
+
+
+## Links Interessantes:
+
+[Google](https://www.google.com)
+
+[https://www.horadeacordar.com.br](https://www.horadeacordar.com.br)
+
+```javascript
+function soma(a, b) {
+  return a + b;
+}
+```
+
+## Lista de Tarefas a fazer:
+
+- [ X ] Area de Membros
+- [ ] Integracao com outros pagamentos
+- [ ] Sistema de bonus
+- [ x ] Css do Rodape atualizado

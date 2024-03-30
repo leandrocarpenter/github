@@ -43,4 +43,5 @@ function soma(a, b) {
 - [ X ] Area de Membros
 - [ ] Integracao com outros pagamentos
 - [ ] Sistema de bonus
-- [ x ] Css do Rodape 
+- [ x ] Css do Rodape atualizado
+

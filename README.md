@@ -36,6 +36,7 @@ _Melhoria 1_, __melhoria 2__
 function soma(a, b) {
   return a + b;
 }
+```
 
 ## Lista de Tarefas a fazer:
 

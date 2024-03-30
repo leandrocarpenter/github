@@ -22,3 +22,7 @@ _Melhoria 1_, __melhoria 2__
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra.
 4. Atualização de lista
+
+
+----
+inclusao de nova linha
